@@ -4,4 +4,4 @@ pandas
 scipy
 io
 warnings 
-
+pip==24.0
